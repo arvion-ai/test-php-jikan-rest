@@ -15,7 +15,7 @@
         "ext-json": "*",
         "ext-mongodb": "*",
         "ext-pcntl": "*",
-        "amphp/http-client": "^4.6",
+        "amphp/http-client": "^v5.3.4",
         "danielmewes/php-rql": "dev-master",
         "darkaonline/swagger-lume": "^9.0",
         "doctrine/annotations": "1.14.2",

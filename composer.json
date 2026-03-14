@@ -21,7 +21,7 @@
         "doctrine/annotations": "1.14.2",
         "fabpot/goutte": "^4.0",
         "flipbox/lumen-generator": "^9.0",
-        "illuminate/redis": "^9.0",
+        "illuminate/redis": "^v12.54.1",
         "jenssegers/mongodb": "^3.9",
         "jikan-me/jikan": "^4",
         "jms/serializer": "^3.0",

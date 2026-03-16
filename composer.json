@@ -26,7 +26,7 @@
         "jikan-me/jikan": "^4",
         "jms/serializer": "^3.0",
         "laravel/legacy-factories": "^1.1",
-        "laravel/lumen-framework": "^9.0",
+        "laravel/lumen-framework": "^v11.2.0",
         "laravel/scout": "^9.4",
         "league/flysystem": "^3.0",
         "matchish/laravel-scout-elasticsearch": "^6.0",

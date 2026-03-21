@@ -20,7 +20,7 @@
         "darkaonline/swagger-lume": "^9.0",
         "doctrine/annotations": "1.14.2",
         "fabpot/goutte": "^4.0",
-        "flipbox/lumen-generator": "^9.0",
+        "flipbox/lumen-generator": "^9.3.0",
         "illuminate/redis": "^9.0",
         "jenssegers/mongodb": "^3.9",
         "jikan-me/jikan": "^4",
